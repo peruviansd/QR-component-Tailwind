@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![qr imagen](https://raw.githubusercontent.com/peruviansd/QR-Component/main/design/desktop-preview.jpg)
+![qr imagen](https://raw.githubusercontent.com/peruviansd/QR-component-Tailwind/main/design/desktop-preview.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [web](https://peruviansd.github.io/QR-component-Tailwind/)
 
 ## My process
 
