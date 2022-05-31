@@ -18,11 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./desktop-preview.jpg)
+![qr imagen](https://raw.githubusercontent.com/peruviansd/QR-Component/main/design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,9 +43,5 @@ I learned a lit of bit of Tailwind , hoy to use simple things like padding, marg
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-
-
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peruviansd)
 
